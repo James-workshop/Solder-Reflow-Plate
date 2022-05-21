@@ -13,7 +13,7 @@ This is the first complete software revision and has been developed and finalise
 #### Main Menu
 - Swap display on the left explains user interface
 - Temperature and Board Thickness data on the right
-- Available temperatures are 60C, 70C, 80C, 90C, 100C, 110C, 120C, 130C, 140C, 150C, 160C, 170C, 180C, 190C, 200C, 210C, 220C
+- Available temperatures are 60C, 70C, 80C, 90C, 100C, 110C, 120C, 130C, 140C, 150C, 160C, 170C, 180C, 190C, 200C
 - ~~Available thicknesses are 0.4mm, 0.6mm, 0.8mm, 1.0mm, 1.2mm, 1.6mm, 2.0mm~~
 - Push individual buttons to cycle through settings
 - Setting saved to EEPROM and loaded from EEPROM on start-up
