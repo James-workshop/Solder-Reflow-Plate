@@ -9,7 +9,12 @@ Future versions of the board are being developed to make home building easier to
 Firstly, download the Gerber files and Bill of Materials.
 While you are there, if you download the Pick and Place Doc you can have select board manufacturers populate the boards for you, normally at extra cost.
 Find yourself a board manufacturer and upload the Gerber files and Bill of Materials.
-I have used JLCPCB and NextPCB, both have given great quality boards and I've never had a problem with either.
+I have used JLCPCB, there have given great quality boards and I've never had a problem with either.
+
+PCB+Assembly from $2, Get ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") SMT Coupon：
+
+[https://jlcpcb.com/HAR](https://jlcpcb.com/HAR).
+
 Use the default board settings
 - PCB thickness = 1.6mm
 - Copper Weight = 1oz
