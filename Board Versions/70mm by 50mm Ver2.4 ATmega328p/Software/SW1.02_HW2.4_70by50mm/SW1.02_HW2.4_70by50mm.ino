@@ -7,7 +7,7 @@
 /*
  *   Fixed debounce for single button press
  *   by ViggoAvatar
- *   https://github.com/ViggoAvatar/Solder-Reflow-Plate
+ *   https://github.com/James-workshop/Solder-Reflow-Plate
  */
 
 
