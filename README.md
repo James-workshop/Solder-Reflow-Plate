@@ -8,6 +8,10 @@ This project has recently featured on a DIY or BUY GreatScott! video.
 
 Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy](https://www.youtube.com/watch?v=QarizoUnRfk)
 
+## How I Made AfterEarthLTD Solder-Reflow-Plate Project (James Workshop) 
+
+Check it out here - [How I Made AfterEarthLTD Solder-Reflow-Plate Project ](https://youtu.be/uxvzKvm6T5E)
+
 ## UPDATE!!!
 
 Join the [DISCORD!](https://discord.gg/YzhG6FcCRA)
